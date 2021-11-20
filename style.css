@@ -1,0 +1,77 @@
+.bg
+{
+   background-image: url(https://i.pinimg.com/originals/03/a2/8a/03a28a0f34624e25c00b259438c244df.jpg); 
+}
+
+
+.container
+{
+    align-content: center;
+}
+.form-control
+{
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+#ite
+ {
+     font-size: 30px;
+
+ }   
+
+.table
+{
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+   
+   
+}
+.check-box
+{
+    vertical-align: middle;
+    margin-left: 15px;
+}
+.form-control{
+    background-image: url(https://phoneky.co.uk/thumbs/screensavers/down/nature/leaf_36kxytjd.gif);
+    background-repeat: no-repeat;
+    
+    
+}
+#head
+{
+    padding-top:30px;
+}
+/* * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+   */
+  /* body {
+    background-color: #111;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  } */
+  .waviy {
+      padding-top:20px;
+    position: relative;
+  }
+  .waviy span {
+    position: relative;
+    display: inline-block;
+    font-size: 40px;
+    color:black;
+    text-transform: uppercase;
+    animation: flip 2s infinite;
+    animation-delay: calc(.2s * var(--i))
+  }
+  @keyframes flip {
+    0%,80% {
+      transform: rotateY(360deg) 
+    }
+  }
